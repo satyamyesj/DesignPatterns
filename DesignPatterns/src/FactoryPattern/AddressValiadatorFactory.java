@@ -6,7 +6,6 @@
 package FactoryPattern;
 
 import java.util.HashMap;
-import sun.security.jca.GetInstance;
 
 /**
  *
